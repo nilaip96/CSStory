@@ -129,3 +129,9 @@ const items3 = [
     value: 100000,
   }
 ]
+
+module.exports = {
+  dummy1: [sack1, items1],
+  dummy2: [sack2, items2],
+  dummy3: [sack3, items3]
+}

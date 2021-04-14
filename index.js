@@ -1,4 +1,4 @@
-module.exports.maxValue = (items, sackWeight) => {
+module.exports = (items, sackWeight) => {
   let value = 0; 
 
   return value;
