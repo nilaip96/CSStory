@@ -20,8 +20,7 @@ What is the maximum worth of goods that the thief can steal?
 ## Technologies
 ---
 Node
-
-
+nodemon
 ---
 <b id="f1">1</b> Nils Made It. [↩](#a1)
 
